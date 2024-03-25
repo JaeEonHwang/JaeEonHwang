@@ -1,5 +1,7 @@
 <!-- info -->
-# :wave: Jae Eon Hwang :wave:
+<!-- # :wave: Jae Eon Hwang :wave: -->
+
+![header](https://capsule-render.vercel.app/api?type=soft&color=2DB400&height=300&section=header&text=JaeEon%20Hwang&fontSize90)
 
 ------
 <!-- Language logo-->
